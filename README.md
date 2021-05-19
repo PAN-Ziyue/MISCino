@@ -21,5 +21,5 @@ All kinds of MISC materials
 
 ## Programming Language
 
-- [TRLP](https://doc.rust-lang.org/book/)
+- [TRPL](https://doc.rust-lang.org/book/)
 

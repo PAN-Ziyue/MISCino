@@ -24,3 +24,7 @@ All kinds of MISC materials
 
 - [TRPL](https://doc.rust-lang.org/book/)
 
+
+## LLVM
+
+- [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/README.html)

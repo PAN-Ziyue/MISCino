@@ -6,6 +6,7 @@ All kinds of MISC materials
 
 - [6.S078](http://csg.csail.mit.edu/6.S078/6_S078_2012_www/handouts/lectures/)
 - [GIT CS6290: HPCA](http://omscs.gatech.edu/cs-6290-high-performance-computer-architecture)
+- [GPU编程模型](https://hustcat.github.io/gpu-architecture/)
 
 
 ## Engineering
